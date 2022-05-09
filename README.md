@@ -1,2 +1,2 @@
 # kata
-A repository for a bowling ball game TDD implementation.
+A repository for yet another version of the bowling ball TDD Kata (using more moderen Java)
